@@ -99,5 +99,7 @@ GitHubの機能
 その他の機能
 ----
 ### Gist
+[https://gist.github.com/](https://gist.github.com/)
+
 スニペットを登録しておける。
 ちょっとしたコマンドや設定とかを書いておくと忘れても大丈夫。
