@@ -1,6 +1,6 @@
 GitHub勉強会 for eeicer
 ====
-Git/Githubについてお勉強しましょう。
+Git/GitHubについてお勉強しましょう。
 
 
 目標
