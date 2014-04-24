@@ -1,0 +1,3 @@
+[ origin ] --> { label: clone; } [ repo ]
+(remote: [origin])
+(local: [repo])

@@ -1,0 +1,3 @@
+[ origin ] --> { label: pull; } [ repo ]
+(remote: [origin])
+(local: [repo])
