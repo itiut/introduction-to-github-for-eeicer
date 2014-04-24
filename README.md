@@ -213,3 +213,11 @@ GitHub上の操作
 '                     '                 '                '
 + - - - - - - - - - - +                 + - - - - - - - -+
 ```
+
+
+その他tips
+====
+### フォーク元のリポジトリの更新を取り込む
+フォーク元のリポジトリを`upstream`として登録する。後は`fetch`して`merge`すればいい。
+
+[Syncing a fork · GitHub Help](https://help.github.com/articles/syncing-a-fork)
