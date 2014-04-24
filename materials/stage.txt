@@ -1,0 +1,2 @@
+[ modified ] --> { label: add; } [ staged ]
+[ staged ] --> { label: commit; } [ commited ]
