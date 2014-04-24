@@ -1,0 +1,3 @@
+[ origin0 ] --> { label: fork; } [ origin1 ]
+(someone's remote: [origin0])
+(your remote: [origin1])
