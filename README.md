@@ -1,4 +1,4 @@
-GitHub勉強会 for eeicer(うほ)
+GitHub勉強会 for eeicer
 ====
 Git/GitHubについてお勉強しましょう。
 
